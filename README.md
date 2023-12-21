@@ -143,6 +143,10 @@ End the HTML structure.
 ## OUTPUT:
 ![2](https://github.com/Loknaath-sec/ODD23-24-WT-JavaScript/assets/145742558/e26a84ee-08ce-4704-b30e-4ab46b4b6a0e)
 
+## RESULT:
+Thus the java code executed to compute the factorial of a given number without recursion.
+
+
 ## Exp-09:(iii)
 ## AIM:
 To construct a JavaScript code to generate ‘N’ prime numbers.
